@@ -1,8 +1,8 @@
 This package is to install and config the hadoop
 
 PreRequisite:
-  java 1.8 to be downloaded from Oracle website/ can use the one in the directory
-   and hadoop to be downloaded from apache hadoop / can use the one in the directory
+  java 1.8 to be downloaded from Oracle website
+   and hadoop to be downloaded from apache hadoop
   
 Procedure to Install:
   Navigate to the respective download folder

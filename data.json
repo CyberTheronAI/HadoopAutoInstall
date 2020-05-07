@@ -1,0 +1,34 @@
+{   "hadoop_src":"hadoop-2.7.7.tar.gz",
+    "__comment" : "hadoop zip file name",
+    "hadoop_folder": "hadoopDir",
+    "__comment1" : "hadoop folder name to be renamed",
+    "java_scr":"jdk-8u251-linux-x64.tar.gz",
+    "__comment2" : "java zip file name",
+    "javaFolder":"java8",
+    "__comment3" : "java folder name to be renamed",
+    "installationLocation":"/home/usr/Downloads",
+    "__comment4" : "hadoop_path with respect home folder",
+    "core": [
+      {
+            "name": "hadoop.tmp.dir",
+            "value": "/app/hadoop/tmp"
+        },
+      {
+            "name": "fs.defaultFS ",
+            "value": "hdfs://localhost:54310"
+        }
+    ],
+
+    "hdfs": [
+        {
+            "name": "dfs.replication",
+            "value": "1"
+        }
+    ],
+    "mapred": [
+        {
+            "name": "mapreduce.jobtracker.address",
+            "value": "localhost:54311"
+        }
+    ]
+}

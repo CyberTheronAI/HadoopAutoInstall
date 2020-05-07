@@ -1,4 +1,4 @@
-This package is to install and config the hadoop.
+This package is to install and config the hadoop
 
 PreRequisite:
   java 1.8 to be downloaded from Oracle website/ can use the one in the directory

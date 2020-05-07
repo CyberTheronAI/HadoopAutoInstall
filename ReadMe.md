@@ -8,7 +8,7 @@ Procedure to Install:
   Navigate to the respective download folder
   Edit the data.json file for file names and folder path
   Make sure the folder contains java and hadoop file downloaded
-  Then execute sshConfig.py file with command "python sshConfig.py" and new prompted or ssh key name press enter and proceed
+  Then execute sshConfig.py file with command "python sshConfig.py" and when prompted for ssh key name press "enter" and proceed
   Then execute javaHadoopConfig.py with command "sudo python javaHadoopConfig.py data.json"
   Sit back and Relax till your Hadoop gets Configured..
   

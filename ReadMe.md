@@ -16,6 +16,6 @@ Procedure to Install:
     1.Resource Manager:http://localhost:8088
     2.Web UI of the namenode daemon: http://localhost:50070
     3.HDFS Namenode web interface: http://localhost:8042
-    
+     
 Note:
   This procedure successfully tested with hadoop 2.7.7 and 3.2.2 and should work fine with all later releases too..

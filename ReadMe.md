@@ -1,4 +1,4 @@
-This package is to install and config the hadoop
+This package is to install and config the hadoop on Ubuntu
 
 PreRequisite:
   1.java 1.8 to be downloaded from Oracle website
